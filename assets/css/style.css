@@ -17,7 +17,6 @@
     width: 568px;
     height: 339px;
     background-color: rgb(0, 0, 106);
-    padding: 35px;
     box-sizing: border-box;
     border: 2px solid #000;
 }
@@ -27,4 +26,16 @@
     height: 335px;
     background-color: rgb(0, 0, 106);
     border: 2px solid #000;
+}
+
+#intercity{
+    height: 280px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    background-color: ghostwhite;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
