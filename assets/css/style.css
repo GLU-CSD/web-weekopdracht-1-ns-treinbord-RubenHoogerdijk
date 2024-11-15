@@ -29,13 +29,19 @@
 }
 
 #intercity{
-    height: 280px;
-    font-size: 15px;
-    font-family: Arial, Helvetica, sans-serif;
+    height: 240px;
+    width: 480px;
+    font-size: 30px;
     text-align: right;
     background-color: ghostwhite;
-    margin-left: 7%;
-    margin-right: 7%;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin-left: 7.5%;
+}
+
+#tijd{
+    height: 40px;
+    width: 245px;
+    background-color: ghostwhite;
+    text-align: left;
+    margin-left: 7.5%;
+    
 }
